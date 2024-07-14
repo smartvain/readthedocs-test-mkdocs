@@ -1,6 +1,4 @@
-# readthedocs-test-mkdocs
-
-# ローカル環境構築
+# ローカル環境構築方法
 
 ```
 pip install -r requirements.txt
@@ -17,6 +15,6 @@ mkdocs serve
 - ディレクトリ構造も作れます
 - ファイルの変更を保存すれば、ホットリロードが走って自動でブラウザのページに反映されます
 
-# mkdocsで設定できる項目
+# mkdocs.ymlで設定できる項目
 
 https://www.mkdocs.org/user-guide/choosing-your-theme/#readthedocs
