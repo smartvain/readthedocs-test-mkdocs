@@ -16,3 +16,7 @@ mkdocs serve
 
 - ディレクトリ構造も作れます
 - ファイルの変更を保存すれば、ホットリロードが走って自動でブラウザのページに反映されます
+
+# mkdocsで設定できる項目
+
+https://www.mkdocs.org/user-guide/choosing-your-theme/#readthedocs
