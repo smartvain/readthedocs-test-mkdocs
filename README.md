@@ -4,5 +4,8 @@
 
 ```
 pip install -r requirements.txt
+
+<readthedocs-test-mkdocsのルートディレクトリに移動>
+
 mkdocs serve
 ```
